@@ -37,23 +37,17 @@ process.on('uncaughtException', exitHandler.bind(null, {exit: true}));
 
 
 var responseMessageList = [
-    "Hey there! Thanks for messaging me! I have a few helpful but random tips I can share in response to your messages, " + "so please bear with me☺ If you have more questions than I have answers, head to Settings > Support in Wickr Pro. " + "Way to go to protect your privacy!",
 
-    "JavaScript API:\n\n" + "Have an idea for a cool integration for wickr? you can now implement it using our brand new Node.js API " + "It is also possible to code integrations in different languages using our WickrIO REST API. For more information visit https://github.com/WickrInc\n\n",
+Preco por g/un: 1-9 | 10-49 | 50-99
 
-    "Here is how to set expiration on your messages:\n\n" + "Expiration is the max time your message will live. Burn-On-Read (BOR) is how long your message will live once the " + "recipient(s) has seen it. You can change both by tapping on the (i) next to any conversation name, at the top of " + "your screen.",
-
-    "Fun fact\n" + "Wickr is used in over a 150 countries, and has over 600,000 registered users. " + "Congrats on being one of them, enjoy your security and privacy.",
-
-    "Did you know that Wickr Pro has a Hubot integration?\n\n" + "When you add a bot, just select the hubot integration option from the menu." + "With Hubot you get access to cool features such as Giphy and pug bombs and exisiting Wickr Integrations such as Slack, Uber and Salesforce Chatter." + "You can also create your own custom integrations with Hubot or choose from hundreds of existing integrations and scripts available online on npmjs.com.\n\n",
-
-    "Sending files on Wickr Pro:\n\n" + "You can now send photos, videos, and other ephemeral files up to 5GB via End-to-End encryption. Secure Screenshare & File Upload This feature supports collaboration " + "and maximum data hygiene for you and the contacts you TRUST. If you do not trust the person you’re talking to, do " + "not open files coming from them or send them photos/files you do not want to be saved. Stay safe!",
-
-    "Verification\n\n" + "You’ll notice an orange dot around your contacts’ avatars – that means you have not yet verified them.\n\n" + "You don’t have to, but in case you want to make sure you are talking to the right person, send them a key video " + "verification request to establish trust between your Wickr Pro accounts.\n\n" + "Check out our blog on this: https://medium.com/cryptoblog/key-verification-in-secure-messaging-bd93a1bf3d40",
-
-    "Passwords\n\n" + "Important to know: there is no password reset on Wickr Pro – we don't know who you are which prevents us from " + "verifying you to reset your password.\n\n" + "So please remember your password☺",
-
-    "Privacy\n\n" + "We built Wickr Pro to provide private communications to everyone.\n" + "We take your privacy & security very seriously, learn more: www.wickr.com/security.\n\n" + "Source code https://github.com/WickrInc/wickr-crypto-c. FAQ www.wickr.com/faq"
+🧀Cheese 8 | 7 | 6
+🥭Somango 8 | 7 | 6
+💫Amnesia 7,5 | 6 | 5
+🍈Melon CBD 5 | 4 | 3
+🍫Superpolen 7,5 | 5 | 4
+🍄 Cogus 7,5 | 6 | 5
+🌈Assid 10 | 7 | 5
+💊Tilhas 7,5 | 6 | 5
 ];
 
 
